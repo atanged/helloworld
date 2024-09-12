@@ -1,3 +1,4 @@
+#Program using For loop
 o="Y"
 while o!="X":
     o=input("\n\nEnter options: \n1.Range with number \n2.range with len()\nExit Program[X]\n ")
