@@ -1,4 +1,4 @@
-# Fibonacci sequence 
+# Fibonacci sequence program
 l=0
 c=0
 c1=1
