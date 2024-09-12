@@ -1,4 +1,4 @@
-# Multiplication Tables
+# Multiplication Tables Program
 c=1
 ic=0
 print("\nTables Program \n--------------")
